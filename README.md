@@ -1,4 +1,4 @@
-# RAGNavigator
+# OmniQuest
 
 ## Description:
 - `OpenAI GPT-4o model` is used for creating a `RAG application` using `Object Vector Database`.
